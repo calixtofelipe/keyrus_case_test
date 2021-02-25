@@ -21,12 +21,19 @@ O objetivo é avaliar a lógica da solução e a organização do código em PyS
 
 ### CONFIGURAÇÕES
 - As variáveis de acesso foram colocadas em um arquivo config.py que por segurança estão no .gitignore
+exemplo de arquivo:
+FTP_URL = "192.168.0.228"
+FTP_USER = "fxxxx"
+FTP_PASSWORD = "xxxxx"
+FTP_FOLDER = "/home/fsociety/projetos/python/keyrus/xxx"
+FTP_FILE = "data_municipio.zip"
+FTP_DATASOURCE = "ftp://user:senha@192.168.0.228"
 
 ### CASE 1 
 - Foi feito on premisse
 Verificar notebook CASE_1.ipynb
 
 ### CASE 2
-- Foi feito no community do databricks.
-Verificar notebook CASE_2.ipynb
+- Foi feito on premisse
+Verificar notebook CASE_2_COMPLETE.ipynb
 
