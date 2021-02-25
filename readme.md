@@ -18,3 +18,15 @@ Transação, Município, Estado, data de Atualização e Ordem da Transação
 
 Obs. Alimentar o data frame com mais de uma transação por município e mais de um município, mas não precisa ser um grande volume.
 O objetivo é avaliar a lógica da solução e a organização do código em PySpark.
+
+### CONFIGURAÇÕES
+- As variáveis de acesso foram colocadas em um arquivo config.py que por segurança estão no .gitignore
+
+### CASE 1 
+- Foi feito on premisse
+Verificar notebook CASE_1.ipynb
+
+### CASE 2
+- Foi feito no community do databricks.
+Verificar notebook CASE_2.ipynb
+
