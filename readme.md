@@ -52,3 +52,13 @@ O code ftp_2_datalake é um code de teste para verificar se o ftp estava ok.
 Verificar notebook CASE_2_COMPLETE.ipynb
 - Observações: fiz de forma mais reduzida nesse arquivo que utilizei no databricks.
 Mas na versão completa tentei seguir todos os passos do case.
+
+
+## ARQUIVO CONFIG SAMPLE
+FTP_URL = "192.168.0.228"
+FTP_USER = "USER"
+FTP_PASSWORD = "PASS"
+FTP_FOLDER = "/home/fsociety/projetos/python/keyrus/ftp_folder"
+FTP_FILE = "data_municipio.zip"
+FTP_DATASOURCE = "ftp://USER:PASS@192.168.0.228"
+FTP_DATASOURCE_URI = 'ftp://USER:PASSW@192.168.0.228/home/fsociety/projetos/python/keyrus/ftp_folder/data_municipio.zip'
