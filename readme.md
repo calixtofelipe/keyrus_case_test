@@ -32,7 +32,7 @@ FTP_DATASOURCE = "ftp://user:senha@192.168.0.228"
 ### CASE 1 
 - Foi feito on premisse
 Verificar notebook CASE_1.ipynb
-Observações: Fiz algumas possibilidades, o que entendi da regra foi:
+- Observações: Fiz algumas possibilidades, o que entendi da regra foi:
 1 - descompacta e salva o arquivo descompactado.
 2 - ler o arquivo descompactado
 3 - salva o arquivo descompactado no database.
@@ -43,5 +43,5 @@ O code ftp_2_datalake é um code de teste para verificar se o ftp estava ok.
 ### CASE 2
 - Foi feito on premisse
 Verificar notebook CASE_2_COMPLETE.ipynb
-Observações: fiz de forma mais reduzida nesse arquivo que utilizei no databricks.
+- Observações: fiz de forma mais reduzida nesse arquivo que utilizei no databricks.
 Mas na versão completa tentei seguir todos os passos do case.
