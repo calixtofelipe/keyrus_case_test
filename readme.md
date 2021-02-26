@@ -36,8 +36,13 @@ Verificar notebook CASE_1.ipynb
 1 - descompacta e salva o arquivo descompactado.
 2 - ler o arquivo descompactado
 3 - salva o arquivo descompactado no database.
-** Até fiz para descompactar e gerar um dataframe pandas mas acho que o que foi solicitado 
-foram os 3 itens acima.
+- ou
+1 - descompacta e salva o arquivo descompactado.
+2 - ler o arquivo descompactado
+3 - cria um rdd
+4 - cria um dataframe
+5 - salva o arquivo descompactado no database.
+
 O code ftp_2_datalake é um code de teste para verificar se o ftp estava ok.
 
 ### CASE 2
