@@ -2,3 +2,5 @@ venv
 config.py
 .ipynb_checkpoints
 bkp
+tips.txt
+.venv
